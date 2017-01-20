@@ -1,0 +1,33 @@
+body{
+color:#fff;
+background-color:#000;
+padding:5vmin;
+}
+header{
+background-color:#004;
+font-size:4vmin;
+font-family:arial, sans-serif;
+padding:1vmin;
+text-align:center;
+}
+img{
+width:50vmin;
+transition: width 2s;
+}
+img:hover {
+width:80vmin;
+}
+div{
+width:90vmin;
+margin-right:auto;
+margin-left:auto;
+text-align:center;
+}
+p{
+color:#fa0;
+font-family:arial, sans-serif;
+font-size:3vmin;
+}
+footer{
+font-size:3vmin;
+}
