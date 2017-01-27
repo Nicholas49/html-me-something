@@ -1,7 +1,7 @@
 body{
 color:#fff;
 background-color:#000;
-padding:5vmin;
+padding:2vmin;
 }
 header{
 background-color:#004;
@@ -24,10 +24,15 @@ margin-left:auto;
 text-align:center;
 }
 p{
-color:#fa0;
 font-family:arial, sans-serif;
 font-size:3vmin;
 }
 footer{
 font-size:3vmin;
+}
+#purp{
+color: purple;
+}
+.gold{
+color:#fa0;
 }
